@@ -9,8 +9,6 @@ A full-stack Car Wash Management System built using Spring Boot to streamline op
 - 👤 Role-based system (Admin, Employee, Customer)
 - 🚗 Vehicle registration & management
 - 🛠 Service selection (Daily, Weekly, Alternate plans)
-- 💰 Automated billing system
-- 📊 Admin dashboard with analytics (revenue, reports)
 - 📍 Location-based insights
 - 🔄 RESTful APIs for all operations
 
@@ -21,7 +19,6 @@ A full-stack Car Wash Management System built using Spring Boot to streamline op
 - **Backend:** Java, Spring Boot, Spring Core
 - **Database:** MySQL, MongoDB
 - **ORM:** JPA, Hibernate
-- **Frontend:** (Add if you used Angular/UI)
 - **Architecture:** REST APIs, MVC Design Pattern
 
 ---
